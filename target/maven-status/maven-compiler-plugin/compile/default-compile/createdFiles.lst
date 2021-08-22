@@ -1,0 +1,7 @@
+helper\Util.class
+pages\ProductsPage.class
+pages\BoutiquePage.class
+pages\PaymentPage.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\HomePage.class
