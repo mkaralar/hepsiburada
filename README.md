@@ -2,14 +2,14 @@
 
 This project contains source code for Melda Karalar's Hepsiburada UI test automation practice
 
-##Prerequisites
+## Prerequisites
 
 Make sure that you have 
 
 - `java 11`
 - `mvn`
 
-##Installing 
+## Installing 
 
 1. Clone this repository
 
